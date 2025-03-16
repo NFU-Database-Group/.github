@@ -8,7 +8,7 @@
     <foreignObject x="100" y="10" width="200" height="80">
         <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Arial, sans-serif;">
             <style>
-                * {
+                * { 
                     margin: 0;
                     padding: 0;
                     font-size: 14px;
@@ -17,6 +17,7 @@
                     padding-top: 10px;
                     padding-bottom: 10px;
                     font-size: 16px;
+                    color: #6B7A8A;
                     font-weight: bold;
                 }
                 .link {

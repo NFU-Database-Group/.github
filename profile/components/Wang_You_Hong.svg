@@ -16,6 +16,7 @@
                 .name {
                     padding-top: 10px;
                     padding-bottom: 10px;
+                    color: #6B7A8A;
                     font-size: 16px;
                     font-weight: bold;
                 }
